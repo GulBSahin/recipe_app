@@ -1,3 +1,5 @@
+![recipe-app-react](https://user-images.githubusercontent.com/70208660/157908645-8026d0f0-b0ce-4c38-81aa-374ded3a9c5d.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
